@@ -19,5 +19,5 @@ feel free to use this or see the code of this project if it helps you
 <strong>
   but before of start using the project code make sure to run in your terminal the following commands : 
 </strong> </br>
-- npm install
+- npm install </br>
 - npm start
